@@ -1,0 +1,130 @@
+header
+{
+margin-left: 5px;
+margin-right: 5px;
+padding: 8px;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+}
+body
+{
+background-image: url(Afbeeldingen/Marble.jpg);
+background-size: cover;
+background-position: center;
+color: #000000;
+margin-left: 5px;
+margin-right: 5px;
+padding: 8px;
+}
+
+h1
+{
+font-family: Bebas Neue, sans-serif;
+font-size: 50px;
+text-align: center;
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
+table 
+{
+width: 600px;
+border-collapse: collapse;
+align-items: center;
+justify-content: center;
+margin: 0 auto;
+padding: 10px;
+display: flex;
+text-align: center;
+align-items:center;
+justify-content: column;
+}
+
+th, td
+{
+margin: 0px 8px 0px 8px auto;
+padding: 10px;
+text-align: left;
+}
+
+th
+{
+color: #000000;
+font-family: Wellfleet, sans-serif;
+font-weight: bold;
+font-size: 16px;
+text-align: center;
+border: 1px solid black;
+background-color: transparent;
+}
+
+td
+{
+color: #000000;
+font-family: Wellfleet, sans-serif;
+font-size: 12px;
+background-color: transparent;
+}
+
+ul
+{
+list-style-type: square;
+margin: 0px 8px 0px 8px auto;
+padding: 10px;
+}
+
+footer
+{
+font-family: Dosis, sans-serif;
+font-size: 10px;
+width: 100%;
+height: 15px;
+padding: 8px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+footer ul
+{
+list-style-type: none;
+margin: 0px 8px 0px 8px auto;
+padding: 10px;
+display: flex;
+flex-direction: row;
+text-align: center;
+align-items: center;
+justify-content: center;
+}
+
+footer li
+{
+display: inline-block;
+margin: 0px 8px 0px 8px auto;
+padding: 10px;
+}
+
+button
+{
+font-size: 10px;
+background-color: transparent;
+border: none;
+color: #000000;
+padding: 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+}
+
+button:hover
+{
+background-color: transparent;
+font-size: 10px;
+color: #000000;
+border: 1px solid;
+border-radius: 20px;
+margin: 0px 8px 0px 8px auto;
+padding: 10px;
+}
